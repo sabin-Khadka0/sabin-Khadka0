@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sabin-Khadka0
+- 👋 Hi, I’m sabin Khadka
 - 🌱 I’m currently learning angular
 
 <!---
